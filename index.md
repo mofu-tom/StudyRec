@@ -3,10 +3,10 @@
 ![Thumbnail](https://github.com/mofu-tom/StudyRec/blob/main/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB.png?raw=true)
 
 ## ✨ ベータ版 ✨
-**https://testflight.apple.com/join/WdcVhtIZ**
+**[https://testflight.apple.com/join/WdcVhtIZ](https://testflight.apple.com/join/WdcVhtIZ)**
 ※ 現在iOS版のみテストを公開しています。App Storeから「Test Flight」というアプリをダウンロードしてからリンクを開くことでスタディレックをダウンロードすることができます。最終更新: 2022/08/24
 
-https://forms.gle/PYwgFJAN6a54uZSR8
+[https://forms.gle/PYwgFJAN6a54uZSR8](https://forms.gle/PYwgFJAN6a54uZSR8)
 現在テスト版を使用した方からの意見を集めています！こちらのリンクから是非アンケートを答えていただけると嬉しいです🙇‍♂️
 
 ## スタディレックはどんなアプリ ❓
@@ -27,3 +27,7 @@ https://forms.gle/PYwgFJAN6a54uZSR8
 
 ## これから実装される機能
 ### ランキング 👑
+
+## 作者
+企画・デザイン: **曽田 柑**
+アプリ制作: **クルモフ 斗務**
