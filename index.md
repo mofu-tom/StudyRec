@@ -4,7 +4,7 @@
 
 ## ✨ ベータ版 ✨
 **[https://testflight.apple.com/join/WdcVhtIZ](https://testflight.apple.com/join/WdcVhtIZ)**
-※ 現在iOS版のみテストを公開しています。App Storeから「Test Flight」というアプリをダウンロードしてからリンクを開くことでスタディレックをダウンロードすることができます。最終更新: 2022/08/24
+※ 現在iOS版のみテストを公開しています。App Storeから「Test Flight」というアプリをダウンロードしてからリンクを開くことでスタディレックをダウンロードすることができます。最終更新: 2022/09/28
 
 [https://forms.gle/PYwgFJAN6a54uZSR8](https://forms.gle/PYwgFJAN6a54uZSR8)
 現在テスト版を使用した方からの意見を集めています！こちらのリンクから是非アンケートを答えていただけると嬉しいです🙇‍♂️
