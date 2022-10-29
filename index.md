@@ -4,7 +4,7 @@
 
 ## ✨ アプリダウンロード ✨
 **[AppStoreでダウンロード](https://apps.apple.com/jp/app/studyrec-%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%83%AC%E3%83%83%E3%82%AF-%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%83%97%E3%82%B9%E3%81%A7%E9%9B%86%E4%B8%AD%E5%8A%9B%E3%82%A2%E3%83%83%E3%83%97/id1640987806)**
-※ 現在iOS版のみテストを公開しています。
+※ 現在iOS版のみ作成をしています。
 
 ## ✨ フィードバック ✨
 [https://forms.gle/PYwgFJAN6a54uZSR8](https://forms.gle/PYwgFJAN6a54uZSR8)
